@@ -1,0 +1,6 @@
+[submodule "archify-backend"]
+	path = archify-backend
+	url = https://github.com/cjag99/archify-backend.git
+[submodule "archify-frontend"]
+	path = archify-frontend
+	url = https://github.com/cjag99/archify-frontend.git
