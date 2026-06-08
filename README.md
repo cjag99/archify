@@ -42,6 +42,19 @@ archify/
 └── README.md          # Root documentation
 ```
 
+## Screenshots
+
+The following screenshots show UI pages and dashboard views included in the `public/` folder.
+
+| Screenshot | Preview |
+|---|---|
+| `Admin.png` | ![Admin](public/Admin.png) |
+| `dashboard.png` | ![Dashboard](public/dashboard.png) |
+| `Light.png` | ![Light theme](public/Light.png) |
+| `login.png` | ![Login](public/login.png) |
+| `project.png` | ![Project](public/project.png) |
+| `Responsive.png` | ![Responsive](public/Responsive.png) |
+
 ## Submodules
 
 ### `archify-backend`
